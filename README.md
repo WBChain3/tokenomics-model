@@ -1,5 +1,11 @@
+
 # tokenomics-model
 Config-driven tokenomics simulation engine. Models supply schedules, staking dynamics, demand trajectories, and price discovery from genesis through maturity. Produces structured PDF reports with scenario analysis, Monte Carlo distributions, and automated risk flags.
+
+---
+
+<img width="602" height="636" alt="token_test_mapes" src="https://github.com/user-attachments/assets/093cad8c-82bd-46c9-91df-d2df919e20fc" />
+<img width="776" height="724" alt="token_test_scenario" src="https://github.com/user-attachments/assets/14343019-caa4-4852-819c-b08a678bd1ef" />
 
 ---
 
