@@ -49,22 +49,22 @@ Config-driven tokenomics simulation engine. Models supply schedules, staking dyn
 
 ## Capabilities
 
-- **Supply Dynamics** — Multi-cohort vesting schedules and sell pressure modeling
-- **Staking Behavior** — Staking ratio dynamics
-- **Demand Projection** — KPI-based demand trajectories
-- **Price Discovery** — Regime-aware pricing with market factor modulation
-- **Risk Detection** — 6 automated risk flags
-- **Treasury Simulation** — USD burn schedules with runway floor protection
-- **Sensitivity Analysis** — Multi-scenario comparison, parameter sweeps, cliff shock simulation
-- **Monte Carlo** — Probabilistic simulation across random parameter distributions
-- **Dual-Token Architecture** — Isolated simulation of paired token economies
-- **Back-Validation** — Historical data ingestion, MAPE-based accuracy scoring
-- **Web GUI** — Local Flask interface for interactive configuration and execution
+- **Supply Dynamics** - Multi-cohort vesting schedules and sell pressure modeling
+- **Staking Behavior** - Staking ratio dynamics
+- **Demand Projection** - KPI-based demand trajectories
+- **Price Discovery** - Regime-aware pricing with market factor modulation
+- **Risk Detection** - 6 automated risk flags
+- **Treasury Simulation** - USD burn schedules with runway floor protection
+- **Sensitivity Analysis** - Multi-scenario comparison, parameter sweeps, cliff shock simulation
+- **Monte Carlo** - Probabilistic simulation across random parameter distributions
+- **Dual-Token Architecture** - Isolated simulation of paired token economies
+- **Back-Validation** - Historical data ingestion, MAPE-based accuracy scoring
+- **Web GUI** - Local Flask interface for interactive configuration and execution
 
 ---
 
 ## Test Coverage
-
+```
   Domain              Tests
   ──────              ─────
   Supply/Vesting      44
@@ -89,7 +89,7 @@ Config-driven tokenomics simulation engine. Models supply schedules, staking dyn
   Total              398
 
 All 398 tests passing.
-
+```
 ---
 
 ## Tech Stack
